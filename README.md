@@ -9,7 +9,7 @@ I'm a **Test Engineer** with **3.2 years** of experience in **Manual & Automatio
 - **Project Management Tools**: Azure DevOps, JIRA
 - **Agile Methodologies**: Scrum-based testing and CI/CD collaboration
 
-📌 **[Click here for my updated CV](https://drive.google.com/file/d/17dyDrc33wjkGEI1mcpGviIypvKwNG5wN/view?usp=sharing)**
+📌 **[Click here for my updated CV](https://drive.google.com/file/d/1YxPtOTY09YrC00bKmF1GLG8w1owKQF3E/view?usp=drive_link)**
 
 ---
 
